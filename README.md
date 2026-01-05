@@ -92,17 +92,31 @@ Committed to contributing to backend architecture and continuous growth as a sof
   </tr>
 </table>
 
----
-
-## 📈 Language Analytics 
-
-<div align="center">
+<!-- <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasio&layout=compact&theme=tokyonight" />
 
-</div>
+</div> -->
 
 ---
+
+<!-- ## 📊 GitHub Analytics -->
+
+<!-- <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwasio&theme=tokyonight" alt="Profile Summary"/>
+</div> -->
+
+
+<!-- <div align="center">
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishwasio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=C9D1D9&ring_color=667EEA"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishwasio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9&langs_count=8"/>
+</div> -->
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
+</div> -->
+
+<!-- --- -->
 
 ## 🌱 Growth Areas & Next Objectives
 🔥**Build Core Expertise:** 
