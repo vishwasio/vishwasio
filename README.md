@@ -21,7 +21,7 @@ Committed to contributing to backend architecture and continuous growth as a sof
 ## 🎓 Certifications
 
 <table><tr><td>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDA7DEA6AF9EDBC846B46FFEDD9B25DBA669090AB5B2CE23BA270749CCB44AFC"><b>Oracle Cloud Infrastructure [2025] Certified Develpoer Professional</b></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDA7DEA6AF9EDBC846B46FFEDD9B25DBA669090AB5B2CE23BA270749CCB44AFC"><b>Oracle Cloud Infrastructure [2025] Certified Developer Professional</b></a>
 </td></tr></table>
 
 ---
@@ -55,39 +55,39 @@ Committed to contributing to backend architecture and continuous growth as a sof
 ---
 
 ## 🚀 Featured Projects
-> *(I built these to solve a problem—and hopefully, avoid creating two new ones. 📉😅 👇)*
+
 
 <table align="center">
   <tr>
     <td>
+      <a href="https://github.com/vishwasio/fraud-detection-stream-processor">
+        <b>Fraud Detection Stream Processor</b>
+      </a><br><br>
+      A high-performance, Kafka-driven pipeline featuring synthetic transaction generation, rule-based scoring, and alerting. Built with Spring Boot microservices and designed for scalable fraud analytics.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vishwasio/idempotent-payment-routing-service">
+        <b>Idempotent Payment Routing Service</b>
+      </a><br><br>
+      A Service that routes payments to simulated gateways while guaranteeing transactions are processed exactly once, even upon retries.
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/vishwasio/open-banking-account-aggregator">
-        <b>Open Banking & Account Aggregator</b>
+        <b>Open Banking Account Aggregator</b>
       </a><br><br>
-      Built with microservices and Kafka to ensure your balance is updated before you can spend it. 💰
+      A secure, event-driven Open Banking backend system built with Spring Boot microservices, Kafka, and Docker Compose - enabling consent-driven financial data aggregation.
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/vishwasio/load-balancer">
-        <b>Load Balancer</b>
+      <a href="https://github.com/vishwasio/trishul-flux">
+        <b>Auto-Infra Resilience Agent [Trishul-Flux]</b>
       </a><br><br>
-      The intelligent load balancer that ensures no single microservice feels overworked. It's fair! ⚖️
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vishwasio/nlp-ticket-prioritizer">
-        <b>NLP Ticket Prioritizer</b>
-      </a><br><br>
-      The application for support triage. It figures out what's urgent and what's just someone yelling in CAPS. 📣⚠️
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vishwasio/LambDB-NoSQL-Prototype">
-        <b>LambDB — NoSQL Prototype</b>
-      </a><br><br>
-      My lightweight, Java-based NoSQL database. It's fast, atomic, and definitely not meant to run Amazon. 😉
+      A cognitive reliability engineering orchestration layer that guarantees 99.99% availability for high-concurrency Java environments. It replaces static thresholds with a closed-loop LLM architecture to automate real-time traffic shedding and predictive resource scaling.
     </td>
   </tr>
 </table>
