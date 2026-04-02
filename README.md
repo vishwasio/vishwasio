@@ -9,11 +9,11 @@
 
 ## 👋 Hi there, I'm Vishwas Karode
 
-A developer passionate about building **Distributed Systems / Cloud-Native Apps**. 🚀
+Backend Engineer  ❁  Cloud-Native Architect  ❁ OCI Certified Professional
 
-I’m an **Oracle Cloud Infrastructure Certified [2025] Developer Professional** who specializes in **exploring** new concepts—mostly so I can discover new, complicated ways things can fail, and then fix them properly. 🛠️ My primary skill is writing code that keeps the cloud bill low and avoids being paged at 3 AM. 🔔
+I engineer high-concurrency systems that thrive under pressure. My work is centered on the Java and Spring ecosystem, where I bridge the gap between application code and infrastructure reliability.
 
-Committed to contributing to backend architecture and continuous growth as a software development engineer.
+I am a Contributor to Spring Cloud Stream [PR #3186](https://github.com/spring-cloud/spring-cloud-stream/pull/3186), where I optimized core retry semantics to ensure consistent configuration behavior across distributed message binders. I specialize in building "production-first" backends—prioritizing observability, idempotency, and fault isolation in every commit.
 
 ---
 
@@ -54,7 +54,7 @@ Committed to contributing to backend architecture and continuous growth as a sof
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 
 <table align="center">
@@ -98,7 +98,7 @@ Committed to contributing to backend architecture and continuous growth as a sof
 
 </div> -->
 
----
+<!--->
 
 <!-- ## 📊 GitHub Analytics -->
 
@@ -117,7 +117,7 @@ Committed to contributing to backend architecture and continuous growth as a sof
 </div> -->
 
 <!-- --- -->
-
+<!--
 ## 🌱 Growth Areas & Next Objectives
 🔥**Build Core Expertise:** 
 > *Driven by the challenges of complex distributed systems and modern cloud-native architecture.*
@@ -127,8 +127,8 @@ Committed to contributing to backend architecture and continuous growth as a sof
 
 🔥**R&D and Innovation:**
 > *Exploring research in Data Science/LLMs and also prototyping personal smart home IoT solutions.*
-
----
+-->
+<!--->
 
 ## 📫 Don't be a stranger!
 
@@ -139,16 +139,17 @@ or finding opportunities for professional collaboration.
 
 🤝 If you want to connect, talk shop, or just say hello, my digital door is always open. Let's build something great together!
 
-The real code lives in the repos below—show them some love with a ⭐.
+
 
 [![Debug Time](https://img.shields.io/badge/Debug%20Time-80%25%20of%20all%20time-ff69b4?style=for-the-badge&logo=bugsnag)](https://github.com/vishwasio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imvishwas/)
 [![GitHub followers](https://img.shields.io/github/followers/vishwasio?style=social)](https://github.com/vishwasio)
 
-> **Need a high-impact, custom backend solution?** Turning real-world requirements into production-ready systems is my specialty. Inquire about my freelance capacity!
+The real code lives in the repos below—show them some love with a ⭐.
+<!-- > **Need a high-impact, custom backend solution?** Turning real-world requirements into production-ready systems is my specialty. Inquire about my freelance capacity!
 
+--- -->
 ---
-
 <div align="center">“👀 See you in the logs! Happy Coding. 😁”</div>
 
 <p align="center">
