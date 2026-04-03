@@ -1,9 +1,30 @@
 <!-- 🌊 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=(⊙_◎)%20vishwasio%20🦖%20!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38" />
-</p>
 
 🧑‍💻 About Me, down here 👇
+
+---
+<!-- ## 👋 Hi, I'm Vishwas Karode -->
+## [💻 Backend Engineer]() ⁘ [☁️ Cloud-Native Architect]() ⁘ [🏗️ OCI Certified Professional]()
+
+I engineer high-concurrency systems designed to thrive under pressure. My work is centered on the Java and Spring ecosystem, where I bridge the gap between application code and infrastructure reliability.
+
+I am an <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDA7DEA6AF9EDBC846B46FFEDD9B25DBA669090AB5B2CE23BA270749CCB44AFC"><b>Oracle Cloud Infrastructure [2025] Certified Developer Professional</b></a>. This certification reflects my ability to design, build, and deploy cloud-native applications that are both scalable and cost-effective.
+
+I focus on building "production-first" backends, prioritizing observability, idempotency, and fault isolation. My implementation style leverages Hibernate for persistence and Kafka for event-driven flows, ensuring data integrity across distributed environments.
+
+As a *contributor to Spring Cloud Stream* ([PR #3186](https://github.com/spring-cloud/spring-cloud-stream/pull/3186)), I’ve worked on optimizing core retry semantics. While I primarily specialize in the JVM, I also utilize Go and GraphQL for specialized high-performance tooling.
+
+<img align="" width="" src="https://skillicons.dev/icons?i=java,spring,go,kafka,mysql,postgres,hibernate,docker,kubernetes,git,github,idea,maven,aws,postman&perline=45" />
+
+My workflow is built around modern DevOps practices using Docker and Kubernetes for container orchestration. I manage the full development lifecycle—from schema design in MySQL/PostgreSQL to automated builds using Maven and GitHub Actions.
+
+I rely on IntelliJ IDEA for deep-code analysis and Postman for rigorous API contract testing. Whether deploying on AWS or OCI, my goal is to ensure that infrastructure remains as resilient as the code it runs.
+
+
+
+<!-- 🧑‍💻 About Me, down here 👇
 
 ---
 
@@ -50,9 +71,9 @@ I am a Contributor to Spring Cloud Stream [PR #3186](https://github.com/spring-c
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea,maven,aws,postman" />
-</div>
+</div> 
 
----
+---  --->
 
 <!-- ## 🚀 Featured Projects
 
@@ -128,7 +149,7 @@ I am a Contributor to Spring Cloud Stream [PR #3186](https://github.com/spring-c
 🔥**R&D and Innovation:**
 > *Exploring research in Data Science/LLMs and also prototyping personal smart home IoT solutions.*
 -->
-<!--->
+---
 
 ## 📫 Don't be a stranger!
 
