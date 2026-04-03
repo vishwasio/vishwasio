@@ -131,10 +131,6 @@ I am a Contributor to Spring Cloud Stream [PR #3186](https://github.com/spring-c
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishwasio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9&langs_count=8"/>
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
-</div> -->
-
 <!-- --- -->
 <!--
 ## 🌱 Growth Areas & Next Objectives
@@ -154,11 +150,13 @@ I'm constantly exploring the boundaries of robust, scalable systems—specifical
 
 I’m always open to discussing backend architecture challenges, debating the trade-offs of modern deployment strategies, or collaborating on high-impact open-source projects. If you're looking for a developer who thinks in terms of systems and survival, let's connect.
 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imvishwas/)
 
- The real code lives in the repos below feel free to explore the internals and show them some love with a ⭐. 
+The real code lives in the repos below feel free to explore the internals and show them some love with a ⭐. 
  
- 👀 See you in the logs! Happy Coding. 😁
+👀 See you in the logs! Happy Coding. 😁
 
 
 <!--- [![Debug Time](https://img.shields.io/badge/Debug%20Time-80%25%20of%20all%20time-ff69b4?style=for-the-badge&logo=bugsnag)](https://github.com/vishwasio)
