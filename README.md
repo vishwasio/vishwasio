@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=(⊙_◎)%20vishwasio%20🦖%20!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38" />
 
-🧑‍💻 About Me, down here 👇
-
----
 <!-- ## 👋 Hi, I'm Vishwas Karode -->
 ## [💻 Backend Engineer]() ⁘ [☁️ Cloud-Native Architect]() ⁘ [🏗️ OCI Certified Professional]()
 
