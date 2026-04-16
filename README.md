@@ -11,7 +11,7 @@ I am an <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?i
 
 <img align="right" width="40%" src="https://skillicons.dev/icons?i=java,spring,go,graphql,kafka,mysql,postgres,hibernate&perline=16" />
 
-I focus on building production-first backends, prioritizing observability, and fault isolation. My implementation style leverages Hibernate for persistence and Kafka for event-driven flows, ensuring data integrity across distributed envs. 
+I focus on building production-first backends, prioritizing observability, and fault isolation. My implementation style leverages Hibernate for persistence and Kafka for event-driven flows, ensuring data integrity across distributed environments. 
 
 <img align="right" width="40%" src="https://skillicons.dev/icons?i=git,docker,github,kubernetes,aws,postman,idea,maven&perline=16" />
 
