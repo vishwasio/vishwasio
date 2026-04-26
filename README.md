@@ -30,7 +30,7 @@ I'm constantly exploring the boundaries of robust, scalable systems—specifical
 
 I’m always open to discussing backend architecture challenges, debating the trade-offs of modern deployment strategies, or collaborating on high-impact open-source projects. If you're looking for a developer who thinks in terms of systems and survival, let's connect.
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=transparent&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=transparent&fire=FF6B6B&currStreakLabel=C9D1D9&hide_border=true" alt="GitHub Streak Stats"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imvishwas/)
 [![Resume](https://img.shields.io/badge/Dev-Resume-black?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1m8aPQTqSjWORCp0cC1_nbeLCWICDG4qI/view)
