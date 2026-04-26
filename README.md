@@ -22,8 +22,8 @@ Whether deploying on AWS or OCI, my goal is to ensure that the underlying infras
 This commitment to system stability extends to the frameworks I use; as a *contributor to Spring Cloud Stream* ([PR #3186](https://github.com/spring-cloud/spring-cloud-stream/pull/3186)), I’ve worked on optimizing core retry semantics. While I primarily specialize in the JVM, I also utilize Go and GraphQL for specialized high-performance tooling.
 
 <div align="center" width="98%" justify-content="space-between">
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishwasio&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishwasio&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishwasio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishwasio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000"/>
 </div>
 
 I'm constantly exploring the boundaries of robust, scalable systems—specifically where Agentic AI intersects with backend infrastructure. I believe the next generation of architecture isn't just automated; it’s autonomous. My goal is to move beyond static scripts toward self-healing systems that leverage LLMs for real-time operational reasoning and predictive reliability.
