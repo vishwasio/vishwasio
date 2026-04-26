@@ -33,6 +33,7 @@ I’m always open to discussing backend architecture challenges, debating the tr
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imvishwas/)
+[![Resume](https://img.shields.io/badge/Dev-Resume-black?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1m8aPQTqSjWORCp0cC1_nbeLCWICDG4qI/view)
 
 😊 Thanks for dropping by! The real code lives in the repos below feel free to explore the internals and show them some love with a ⭐. 
  
