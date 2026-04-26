@@ -22,15 +22,15 @@ Whether deploying on AWS or OCI, my goal is to ensure that the underlying infras
 This commitment to system stability extends to the frameworks I use; as a *contributor to Spring Cloud Stream* ([PR #3186](https://github.com/spring-cloud/spring-cloud-stream/pull/3186)), I’ve worked on optimizing core retry semantics. While I primarily specialize in the JVM, I also utilize Go and GraphQL for specialized high-performance tooling.
 
 <div align="center" width="98%" justify-content="space-between">
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishwasio&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=C9D1D9&ring_color=667EEA"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishwasio&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9&langs_count=8"/>
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishwasio&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishwasio&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 </div>
 
 I'm constantly exploring the boundaries of robust, scalable systems—specifically where Agentic AI intersects with backend infrastructure. I believe the next generation of architecture isn't just automated; it’s autonomous. My goal is to move beyond static scripts toward self-healing systems that leverage LLMs for real-time operational reasoning and predictive reliability.
 
 I’m always open to discussing backend architecture challenges, debating the trade-offs of modern deployment strategies, or collaborating on high-impact open-source projects. If you're looking for a developer who thinks in terms of systems and survival, let's connect.
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasio&theme=transparent&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imvishwas/)
 [![Resume](https://img.shields.io/badge/Dev-Resume-black?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1m8aPQTqSjWORCp0cC1_nbeLCWICDG4qI/view)
