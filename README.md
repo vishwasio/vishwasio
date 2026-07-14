@@ -42,3 +42,6 @@ I’m always open to discussing backend architecture challenges, debating the tr
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=30&color=0:0A604B,100:0D7C57&height=120&section=footer" />
 </p>
+
+
+
