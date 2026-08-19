@@ -4,7 +4,7 @@
 ### *[Backend & Systems Engineer]()* 
 I work on backend systems with a strong interest in understanding the trade-offs, failure modes, and complexity that come with distributed software.
 
-[![Certificate](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1m8aPQTqSjWORCp0cC1_nbeLCWICDG4qI/view)
+[![Certificate](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=linkedin)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDA7DEA6AF9EDBC846B46FFEDD9B25DBA669090AB5B2CE23BA270749CCB44AFC)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=linkedin)](https://vishwas-karode.netlify.app)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imvishwas)
 [![Resume](https://img.shields.io/badge/Dev-Resume-yellow?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1m8aPQTqSjWORCp0cC1_nbeLCWICDG4qI/view)
