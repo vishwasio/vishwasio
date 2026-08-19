@@ -5,14 +5,14 @@
 
   <!------------------>
 ### *[Backend & Systems Engineer]()* 
-I build backend systems with a focus on **distributed systems, event-driven architecture, cloud-native development, and system reliability**.
+I work on backend systems with a strong interest in understanding the trade-offs, failure modes, and complexity that come with distributed software.
 
 [![Certificate](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1m8aPQTqSjWORCp0cC1_nbeLCWICDG4qI/view)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=linkedin)](https://vishwas-karode.netlify.app)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imvishwas)
 [![Resume](https://img.shields.io/badge/Dev-Resume-yellow?style=for-the-badge&logo=linkedin)](https://drive.google.com/file/d/1m8aPQTqSjWORCp0cC1_nbeLCWICDG4qI/view)
 
-My work is primarily around the JVM ecosystem, with **Java and Spring** at the core, while exploring the broader systems and infrastructure space through technologies like Kafka, Redis, PostgreSQL, containers, cloud platforms, and AI-assisted engineering.
+My work is primarily around the JVM ecosystem, with **Java and Spring** at the core, while exploring the broader systems and infrastructure space through technologies like Kafka, Redis, SQL, containers, cloud platforms, and AI-assisted engineering.
 
 <img align="right" width="40%" src="https://skillicons.dev/icons?i=java,spring,go,graphql,kafka,mysql,postgres,hibernate&perline=16" /> 
 
