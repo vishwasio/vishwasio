@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=(⊙_◎)%20vishwasio%20🦖%20!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6539C4,100:EB85FF&height=200&section=header&text=(⊙_◎)%20vishwasio%20🦖%20!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38" />
 
 ### *[Backend & Systems Engineer]()* 
 I work on backend systems with a strong interest in understanding the trade-offs, failure modes, and complexity that come with distributed software.
@@ -22,5 +22,5 @@ I also contribute to open source. My work includes a contribution to *Spring Clo
 The repositories below represent the kind of systems and problems I enjoy working on. Take a look around, and if something catches your interest, give it a 🌟
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=30&color=0:0A604B,100:0D7C57&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=30&color=0:6539C4,100:EB85FF&height=120&section=footer" />
 </p>
