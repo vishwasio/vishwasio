@@ -19,7 +19,7 @@ I've spent significant time working with problems around **financial systems, tr
 
 I also contribute to open source. My work includes a contribution to *Spring Cloud Stream* [PR #3186](https://github.com/spring-cloud/spring-cloud-stream/pull/3186), where I investigated and helped address framework-level retry behavior.
 
-The repositories below represent the kind of systems and problems I enjoy working on. Take a look around, and if something catches your interest, give it a 🌟
+The repositories below represent the kind of systems and problems I enjoy working on. Take a look around, and if something catches your interest, give it a star 🌟
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=30&color=0:6539C4,100:EB85FF&height=120&section=footer" />
